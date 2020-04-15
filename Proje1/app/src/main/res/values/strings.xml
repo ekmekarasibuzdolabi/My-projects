@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Proje1</string>
+
+    <string-array name="ulkeadlari">
+
+        <item>Amerika Birleşik Devletleri</item>
+        <item>Azerbaycan</item>
+        <item>Kanada</item>
+        <item>Çin</item>
+        <item>Almanya</item>
+        <item>Yunanistan</item>
+        <item>İsrail</item>
+        <item>İtalya</item>
+        <item>Türkiye</item>
+        <item>İngiltere</item>
+
+    </string-array>
+
+    <string-array name="baskentadlari">
+
+        <item>Washington</item>
+        <item>Bakü</item>
+        <item>Ottava</item>
+        <item>Pekin</item>
+        <item>Berlin</item>
+        <item>Atina</item>
+        <item>Kudüs</item>
+        <item>Roma</item>
+        <item>Ankara</item>
+        <item>Londra</item>
+
+    </string-array>
+
+    <string-array name="nufuslar">
+
+        <item>327.2 Milyon</item>
+        <item>9.898 Milyon</item>
+        <item>37.59 Milyon</item>
+        <item>1.386 Milyar</item>
+        <item>82.79 Milyon</item>
+        <item>10.74 Milyon</item>
+        <item>8.712 Milyon</item>
+        <item>60.48 Milyon</item>
+        <item>80.81 Milyon</item>
+        <item>55.98 Milyon</item>
+
+    </string-array>
+
+</resources>
